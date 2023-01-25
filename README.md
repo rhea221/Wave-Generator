@@ -10,7 +10,7 @@ The Wave Generator is a personal project experimenting with Node.js by exploring
 
 http://192.168.1.244:9966/
 
-## Deployment
+## Installation
 
 Download the above Wave Generator zip.
 
