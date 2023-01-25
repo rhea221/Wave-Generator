@@ -1,0 +1,20 @@
+{
+  "homepage": "https://rhea221.github.io/Wave-Generator.github.io/",
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-util": "^1.10.0",
+    "tweakpane": "^3.0.8"
+  }
+}
