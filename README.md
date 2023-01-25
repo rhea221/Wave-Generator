@@ -1,7 +1,7 @@
 
 # Wave Generator
 
-The Wave Generator is a personal project experimenting with Node.js by exploring random noise generation with Canvas Sketch.
+The Wave Generator is a personal project experimenting with Node.js by exploring random noise generation and real-time Graphical User Interfaces (GUIs) with Canvas Sketch.
 
 <img width="570" alt="noise ui" src="https://user-images.githubusercontent.com/123561256/214700037-15edc7b4-09c1-4bb1-be8d-b4ff51e679f0.PNG">
 
